@@ -1,0 +1,3 @@
+Linux Server Information
+Operating System: Amazon Linux
+Purpose: DevOps Practical Assignment
