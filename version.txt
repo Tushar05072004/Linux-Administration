@@ -1,3 +1,4 @@
 Version 1 basic Linux setup
 Linux administration features
 GitHub deployment completed
+Version 2 improvements
